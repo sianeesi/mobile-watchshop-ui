@@ -1,2 +1,13 @@
-# mobile-watchshop-wireframe
-Wireframe designed on Figma for a watchshop
+# Mobile Watchshop App Wireframe + Desigm
+
+Designed on Figma.
+
+## Wireframe
+
+![Wire Frame](Wireframe.png "Wireframe")
+
+
+## Design
+
+![Design](Design.png "Design")
+
